@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bradneymkhwanazi
 - 👀 I’m interested in music and dancing 
-- 🌱 I’m currently learning linux
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a junior Python Programmer
+- 💞️ I’m looking to collaborate on ... Python projects 
 - 📫 How to reach me ...
 
 <!---
