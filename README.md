@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bradneymkhwanazi
-- 👀 I’m interested in music and dancing 
 - 🌱 I’m a DevOps Engineer
 - 💞️ I’m looking to collaborate on ... Python projects 
 - 📫 How to reach me ... @brad_mkhwanazi on twitter
