@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bradneymkhwanazi
-- 🌱 I’m a Linux Administrator
-- 💞️ I’m looking to collaborate on ... Python projects 
-- 📫 How to reach me ... @brad_mkhwanazi on twitter
+- 🌱 I’m a Linux Administrator 
+- 📫 How to reach me ... @ibmkhwanazi on twitter
 
 <!---
 bradneymkhwanazi/bradneymkhwanazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
